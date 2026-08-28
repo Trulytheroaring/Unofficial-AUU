@@ -5,6 +5,6 @@ And yes this does include the different versions of AUU (As in when saystanding,
 
 Obviously the official one will still be attached to this fork, as for the unofficials they're stored in this folder
 
-Why im making this? Why not, considering this mega folder was handed out to me by a friend anyway
+Why am i making this? Why not, considering this mega folder was handed out to me by a friend anyway
 
 https://mega.nz/folder/9r1FjIJS#WUVFDZpJBchHRCRPh7R3-g
